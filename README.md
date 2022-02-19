@@ -1,2 +1,8 @@
 # Project-08.12.21
-work now marked as done
+echo "# gearrox" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Proioxis/gearrox.git
+git push -u origin main
